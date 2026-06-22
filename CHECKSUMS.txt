@@ -1,0 +1,2 @@
+c7cf94d2633c8baf1d29c2bde5f4b23cb10c7c233ffe7b603f34ff09ea5b101e  packages/medical-humanities-english-review-macos-v1.0.0.zip
+c54765f5b363ab34f26e0e8572267b639134a2bb84018a532f39f1512fb8ac1d  packages/medical-humanities-english-review-windows-v1.0.0.zip
