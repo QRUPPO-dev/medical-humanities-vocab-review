@@ -1,0 +1,11 @@
+{
+  "appId": "com.liguohao.medicalhumanitiesreview",
+  "appName": "医研英语复习",
+  "webDir": "dist",
+  "server": {
+    "iosScheme": "capacitor"
+  },
+  "ios": {
+    "contentInset": "automatic"
+  }
+}

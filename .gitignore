@@ -1,0 +1,45 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+
+# Generated local packages and study-material exports
+output/
+tmp/
+
+# Local environment
+.env
+.env.*
+!.env.example
+
+# OS/editor files
+.DS_Store
+*.swp
+
+# Logs
+*.log
+npm-debug.log*
+pnpm-debug.log*
+yarn-debug.log*
+
+# Capacitor generated web assets
+android/app/src/main/assets/public/
+android/app/src/main/assets/capacitor.config.json
+android/app/src/main/assets/capacitor.plugins.json
+android/app/src/main/res/xml/config.xml
+ios/App/App/public/
+ios/App/App/capacitor.config.json
+ios/App/App/config.xml
+
+# Native build products
+android/.gradle/
+android/**/build/
+ios/App/build/
+ios/App/Pods/
+ios/App/output/
+DerivedData/
+xcuserdata/
+
+# Release branch artifacts are kept outside main.
+release-artifacts/
